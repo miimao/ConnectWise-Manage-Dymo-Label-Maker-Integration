@@ -1,0 +1,12 @@
+[APP]
+DEBUG = false
+# Only accept True or False
+PORT = 5000
+# Debug port will always be 5000 this will change prodction port number ONLY
+
+[CONNECTWISEAPI]
+URL = "https://api-na.myconnectwise.net/v2022_2/apis/3.0"
+COMPANYID = "Your CW Company ID"
+PUBLIC = "Your API Members Public Key"
+PRIVATE = "Your API Members Private Key"
+CLIENTID = "Your Client ID given from CW"
