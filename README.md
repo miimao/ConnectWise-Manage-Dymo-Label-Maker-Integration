@@ -4,7 +4,7 @@ This Project is a very bare bones solution for Procurement in ConnectWise Manage
 
 Currently the following information is provided for received items.
 <ul>
-  <li>Company Name</li>
+  <li>Client Name</li>
   <li>Site</li>
   <li>Date of receival</li>
   <li>The Ticket/Project/SalesOrder Number</li>
