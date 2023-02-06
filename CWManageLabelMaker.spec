@@ -47,5 +47,3 @@ exe = EXE(
 import shutil
 shutil.copyfile('CWManageLabelMaker/config.toml.example', '{0}/config.toml'.format(DISTPATH))
 shutil.copyfile('CWManageLabelMaker/template.label', '{0}/template.label'.format(DISTPATH))
-shutil.copyfile('installers/DLS8Setup8.7.4.exe', '{0}/DLS8Setup8.7.4.exe'.format(DISTPATH))
-shutil.copyfile('installers/nssm.exe', '{0}/nssm.exe'.format(DISTPATH))
